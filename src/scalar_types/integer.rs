@@ -11,4 +11,5 @@
     // arch: isize, usize
 
 //isize and usize types are 64 or 32 bits depending on the architecture of the computer. the primary situation in which you’d use isize or usize is when indexing some sort of collection.
+
 //an i8 can store numbers from -(27) to 27 - 1, which equals -128 to 127. Unsigned variants can store numbers from 0 to 2n - 1, so a u8 can store numbers from 0 to 28 - 1, which equals 0 to 255.

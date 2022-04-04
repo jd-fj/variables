@@ -2,6 +2,8 @@
 
 // all floating point ty[es are signed
 
+// f32 type is a single-precision float, and f64 has double precision.
+
 fn main() {
   let x = 2.0; // f64
 
